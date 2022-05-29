@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MAD Practical</string>
+    <string name="follow">Follow</string>
+    <string name="unfollow">Unfollow</string>
+    <string name="message">Message</string>
+    <string name="group_one">Group 1</string>
+    <string name="group_two">Group 2</string>
+
+    <string name="desc_activity_main_ivProfile">User profile image</string>
+
+    <string name="lorem_w1">Lorem</string>
+    <string name="lorem_w2">Lorem ipsum</string>
+    <string name="lorem_w3">Lorem ipsum dolor</string>
+    <string name="lorem_w4">Lorem ipsum dolor sit</string>
+    <string name="lorem_w5">Lorem ipsum dolor sit amet</string>
+    <string name="lorem_s1">Lorem ipsum dolor sit amet, consectetur adipiscing elit</string>
+    <string name="lorem_s2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sit amet tellus rhoncus, dignissim enim a, efficitur sem</string>
+    <string name="lorem_s3">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sit amet tellus rhoncus, dignissim enim a, efficitur sem. Nulla tincidunt enim ac sapien ultrices imperdiet</string>
+</resources>
