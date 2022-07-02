@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "438317055096",
+    "firebase_url": "https://np-y2s1-mad-pra-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "np-y2s1-mad-pra",
+    "storage_bucket": "np-y2s1-mad-pra.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438317055096:android:1c7c83b70b0cddca3bc18d",
+        "android_client_info": {
+          "package_name": "me.cosmi.mad.practical"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438317055096-d6qe46lekrf8qhv4kjf3trnq9spgdtkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnrDnuNLthGHPLM-VL7MRLN1GQs7uQBN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438317055096-d6qe46lekrf8qhv4kjf3trnq9spgdtkp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

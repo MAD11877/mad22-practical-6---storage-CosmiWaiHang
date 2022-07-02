@@ -1,5 +1,7 @@
 package me.cosmi.mad.practical.ui.listx;
 
+import android.content.Context;
+import android.content.Intent;
 import android.os.Build;
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -20,6 +22,11 @@ public class ListActivity
 
     public static final int NUMBER_OF_USER = 200;
     private final UserContractImpl database = new UserContractImpl(this);
+
+    public static void start(final Context context) {
+        final Intent intent = new Intent(context, ListActivity.class);
+        context.startActivity(intent);
+    }
 
     @NonNull
     @Override

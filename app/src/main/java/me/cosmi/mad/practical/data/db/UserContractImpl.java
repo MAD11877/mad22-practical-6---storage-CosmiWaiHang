@@ -118,9 +118,9 @@ public class UserContractImpl extends SQLiteOpenHelper implements UserContract {
         if (null != cursor) {
             cursor.moveToFirst();
 
-            do {
+            while (cursor.moveToNext()) {
                 userList.add(this.converter.fromCursor(cursor));
-            } while (cursor.moveToNext());
+            }
 
             response.onSuccess(userList);
         } else response.onFailure("There are no user in the database");
